@@ -1,0 +1,90 @@
+/*configurações basicas */
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: darkgreen;
+}
+
+/* primeiro bloco 1 linha */
+.layout1 {
+    display: inline-block;
+    background-color: red;
+    border: 5px dotted orange; 
+    width: 550px;
+    height: 335px;
+    padding: 100px;
+    margin: 70px;
+    padding-bottom: 10%;
+    padding-right: 30px;
+}
+
+/* segundo bloco  1 linha  */
+.layout2{
+    display: inline-block;
+    background-color: red;
+    border: 5px dotted orange;
+    width: 550px;
+    height: 333px;
+    padding: 100px;
+    margin: 70px;
+    padding-bottom: 10%;
+    padding-right: 10px;
+}
+
+/* terceiro  bloco 1 linha  */
+.layout3 {
+    display: inline-block;
+    background-color: red;
+    border: 5px dotted orange;
+    width: 530px ;
+    height: 333px;
+    padding: 100px ;
+    margin: 70px;
+    padding-bottom: 10%;
+    padding-right: 10px;
+}
+
+
+/* Primeiro  bloco 2 linha  */
+.layout11 {
+    display: inline-block;
+    background-color: red;
+    border: 5px dotted orange;
+    width: 1125px;
+    height: 310px;
+    padding: 230px;
+    margin: 40px;
+    paddi
+}
+
+/* Segundo  bloco 2 linha  */
+
+.layout222 {
+    display: inline-block ;
+    background-color: red;
+    border: 5px dotted orange;
+    width: 1125px;
+    height:310px;
+    padding: 230px;
+    margin: 40px;
+
+}
+
+/* Primeiro bloco 3 linha */
+
+.layout111 {
+    display: inline-block;
+    background-color: red;
+    border: 5px dotted orange; 
+    width: 820px;
+    height: 335px;
+    padding: 100px;
+    margin: 40px;
+    padding-bottom: 10%;
+    padding-right: 30px;
+}
