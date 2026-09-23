@@ -15,7 +15,7 @@ body{
     display: inline-block;
     background-color: red;
     border: 5px dotted orange; 
-    width: 550px;
+    width: 530px;
     height: 335px;
     padding: 100px;
     margin: 70px;
@@ -28,7 +28,7 @@ body{
     display: inline-block;
     background-color: red;
     border: 5px dotted orange;
-    width: 550px;
+    width: 530px;
     height: 333px;
     padding: 100px;
     margin: 70px;
@@ -55,7 +55,7 @@ body{
     display: inline-block;
     background-color: red;
     border: 5px dotted orange;
-    width: 1125px;
+    width: 900px;
     height: 310px;
     padding: 230px;
     margin: 40px;
@@ -63,15 +63,15 @@ body{
 }
 
 /* Segundo  bloco 2 linha  */
-
-.layout222 {
-    display: inline-block ;
+.layout22 {
+    display: inline-block;
     background-color: red;
     border: 5px dotted orange;
-    width: 1125px;
-    height:310px;
+    width: 900px;
+    height: 310px;
     padding: 230px;
     margin: 40px;
+    paddi
 
 }
 
